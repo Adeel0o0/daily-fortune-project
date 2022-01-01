@@ -1,8 +1,9 @@
-let fortunes = ["A beautiful, smart, and loving person will be coming into your life.",
-  "A fresh start will put you on your way.",
-  "A golden egg of opportunity falls into your lap this month.",
+let fortunes = ["Its amazing how much good you can do if you dont care who gets the credit.",
+  "You already know the answer to the questions lingering inside your head.",
+  "A new voyage will fill your life with untold memories.",
   "A smile is your personal welcome mat.",
   "All your hard work will soon pay off."
+  "You will travel to many exotic places in your lifetime.",
 ]
 
 let button = document.getElementById('fortuneButton');

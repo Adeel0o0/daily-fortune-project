@@ -1,6 +1,6 @@
 ## Daily-Fortune-Project
 
-This is a small project that genenrates a new fortune each time you click on the `Come back tomorrowz button.
+This is a small project that genenrates a new fortune each time you click on the `Come back tomorrow` button.
 
 ## Context
 
